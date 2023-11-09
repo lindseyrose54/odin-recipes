@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(196, 161, 136);
+}    
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+h1, h2, p, h3 {
+    text-align: center;
+}
+
+.items {
+    text-align: justify;
+    margin-left: 40vw;
+}
